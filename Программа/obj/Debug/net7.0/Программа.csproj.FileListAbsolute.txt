@@ -1,0 +1,15 @@
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\bin\Debug\net7.0\Программа.exe
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\bin\Debug\net7.0\Программа.deps.json
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\bin\Debug\net7.0\Программа.runtimeconfig.json
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\bin\Debug\net7.0\Программа.dll
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\bin\Debug\net7.0\Программа.pdb
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.csproj.AssemblyReference.cache
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.AssemblyInfoInputs.cache
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.AssemblyInfo.cs
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.csproj.CoreCompileInputs.cache
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.dll
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\refint\Программа.dll
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.pdb
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\Программа.genruntimeconfig.cache
+C:\Users\Георгий\Documents\Проверочная работа GB\Программа\obj\Debug\net7.0\ref\Программа.dll
