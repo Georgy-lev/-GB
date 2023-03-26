@@ -1,9 +1,26 @@
-﻿//Напишите программу, которая выдает максимальное число массива.
+﻿//Написать программу, которая из имеющегося массива строк формирует массив из строк, длина которых меньше либо равна 3 символа. Первоначальный массив можно ввести с клавиатуры, либо задать на старте выполнения алгоритма. При решение не рекомендуется пользоваться коллекциями, лучше обойтись исключительно массивами
 
-int[] numbers = new int[3]{2,3,7}; 
-int max = numbers[0]; 
-for (int index = 0; index < numbers.Length; index++) 
-{ 
- if (numbers[index] > max) max = numbers[index]; 
-} 
-Console.WriteLine(max);
+string[] array1 = new string[5] {"123", "23", "hello", "world", "res"};
+string[] array2 = new string[array1.Length];
+void SecondArrayWithIF(string[] array1, string[] array2)
+{
+    int count = 0;
+    for (int i = 0; i < array1.Length; i++)
+    {
+    if(array1[i].Length <= 3)
+        {
+        array2[count] = array1[i];
+        count++;
+        }
+    }
+}
+void PrintArray(string[] array)
+{
+    for (int i = 0; i < array.Length; i++)
+    {
+        Console.Write($"{array[i]} ");
+    }
+    Console.WriteLine();
+}
+SecondArrayWithIF(array1, array2);
+PrintArray(array2);
